@@ -1,4 +1,4 @@
-# 🚀 Mini Projects by Dorukhan Bekdur
+# Mini Projects by Dorukhan Bekdur
 
 This repository contains a collection of small frontend projects I created to improve and showcase my HTML, CSS, and JavaScript skills.
 
@@ -9,7 +9,7 @@ This repository contains a collection of small frontend projects I created to im
 | 01 | Tip Calculator           | Calculates total amount based on bill and tip |
 | 02 | Temperature Converter    | Converts temperature between different units  |
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
