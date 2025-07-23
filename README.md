@@ -4,10 +4,11 @@ This repository contains a collection of small frontend projects I created to im
 
 ## 📁 Projects
 
-| #  | Project Name             | Description                                  |
-|----|--------------------------|----------------------------------------------|
-| 01 | Tip Calculator           | Calculates total amount based on bill and tip |
-| 02 | Temperature Converter    | Converts temperature between different units  |
+| #  | Project Name             | Description                                     |
+|----|--------------------------|-------------------------------------------------|
+| 01 | Tip Calculator           | Calculates total amount based on bill and tip   |
+| 02 | Temperature Converter    | Converts temperature between different units    |
+| 03 | Testimonial Slider       | Automatically cycles through user testimonials  |
 
 ## Technologies Used
 
