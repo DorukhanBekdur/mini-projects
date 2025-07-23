@@ -9,6 +9,7 @@ This repository contains a collection of small frontend projects I created to im
 | 01 | Tip Calculator           | Calculates total amount based on bill and tip   |
 | 02 | Temperature Converter    | Converts temperature between different units    |
 | 03 | Testimonial Slider       | Automatically cycles through user testimonials  |
+| 04 | Age Calculator           | Calculates age based on date of birth           |
 
 ## Technologies Used
 
